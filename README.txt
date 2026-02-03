@@ -17,4 +17,6 @@
 python app.py
 
 ## Autoři
-...
+Adam Rybiař
+Michal Novotný
+
